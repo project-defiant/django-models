@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""ASGI config for my-app project.
+"""ASGI config for main-app project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

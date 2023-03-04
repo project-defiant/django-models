@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""WSGI config for my-app project.
+"""WSGI config for main-app project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
